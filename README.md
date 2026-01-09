@@ -1,6 +1,7 @@
-![Python](https://www.python.org/)
-![License](https://github.com/desire-del/ml-optimization?tab=MIT-1-ov-file)
-![NumPy](https://numpy.org/doc/stable/reference/generated/numpy.linalg.lstsq.html)
+[![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/desire-del/ml-optimization/blob/main/LICENSE)
+[![NumPy](https://img.shields.io/badge/numpy-yes-brightgreen.svg)](https://numpy.org/)
+
 
 # Regularized Regression and Gradient-Based Optimization in Python
 
